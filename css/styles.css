@@ -1,0 +1,26 @@
+html {
+  font-family: "Calibri", "Helvetica", sans-serif;
+  background-color: #ddd;
+}
+p {
+  margin: 2em 0;
+}
+a {
+  color: red !important;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+section, aside {
+  float: left;
+}
+section {
+  width: 80%;
+}
+aside {
+  width: 20%;
+}
+aside img {
+  width: 100%;
+}
